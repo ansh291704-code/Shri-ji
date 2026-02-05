@@ -143,7 +143,7 @@ function moveNoButton() {
         <h1 style="color:#e91e63;">Shri ji said YES 💘</h1>
         <h2>Oil up u piglet nigga 🥰</h2>
       </div>
-    `;
+    ;
   };
 
   // Floating hearts
